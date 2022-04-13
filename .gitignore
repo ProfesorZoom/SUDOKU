@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Custom files added by me
+DiagramKlas.cd
+sudoku-dokumentacja.docx
+sudoku-proj.zip
